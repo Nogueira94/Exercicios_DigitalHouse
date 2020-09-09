@@ -1,4 +1,4 @@
-package br.digital.com.ex2
+package br.digital.aula04_09.ex2
 
 class SessaoDeTreinamento (var expTreino: Int) {
 

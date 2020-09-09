@@ -1,4 +1,4 @@
-package br.digital.com.ex2
+package br.digital.aula04_09.ex2
 
 class JogadorDeFutebol (var nome: String, var energia: Int, var alegria: Int, var gols: Int, var exp: Int) {
 

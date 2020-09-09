@@ -1,4 +1,4 @@
-package br.digital.com.ex3
+package br.digital.aula04_09.ex3
 
 class Prova (var dificuldade: Int, var energiaNecessaria: Int) {
     fun podeRealizar(atleta: Atleta): Boolean{

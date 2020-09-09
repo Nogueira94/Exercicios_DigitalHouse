@@ -1,4 +1,4 @@
-package br.digital.com.ex2
+package br.digital.aula04_09.ex2
 
 fun main() {
     val jogadorA = JogadorDeFutebol ("Guilherme", 100, 100, 5, 25);

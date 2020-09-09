@@ -1,4 +1,4 @@
-package br.digital.com.ex4
+package br.digital.aula04_09.ex4
 
 class Tripe (var dobrado: Boolean, var alturaMinima: Int, var alturaMaxima: Int, var alturaAtual: Int) {
 

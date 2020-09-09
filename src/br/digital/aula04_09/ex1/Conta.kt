@@ -1,4 +1,4 @@
-package br.digital.com.ex1
+package br.digital.aula04_09.ex1
 
 class Conta (var numConta: Int, var saldo: Float, val titular: Cliente ) {
 

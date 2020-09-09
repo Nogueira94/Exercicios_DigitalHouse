@@ -1,4 +1,4 @@
-package br.digital.com.ex3
+package br.digital.aula04_09.ex3
 
 fun main(){
     val atletaA = Atleta("Guilherme", 10, 10);

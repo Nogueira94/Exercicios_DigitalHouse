@@ -1,4 +1,4 @@
-package br.digital.com.ex4
+package br.digital.aula04_09.ex4
 
 fun main(){
     val tripe = Tripe(false, 5, 40, 30)

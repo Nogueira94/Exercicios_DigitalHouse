@@ -1,4 +1,4 @@
-package br.digital.com.ex5
+package br.digital.aula04_09.ex5
 
 class Concessionaria {
 
